@@ -32,6 +32,7 @@ GeeksforGeeks
 LeetCode
 
 - Day 31 - Minimum cost of Buying candies with discount(potd)
+- Day 32 - Earlier Finish Time for Land and Water Rides-|
 
 
 More solutions will be added regularly.
