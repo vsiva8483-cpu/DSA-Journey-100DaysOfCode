@@ -1,4 +1,4 @@
-# DSA-Journey-100DaysOfCode
+# DSA-Journey-300DaysOfCode
 My Daily DSA problems solving journey using java.
 DSA Journey 🚀
 
@@ -36,6 +36,7 @@ LeetCode
 - Day 31 - Minimum cost of Buying candies with discount(potd)
 - Day 32 - Earlier Finish Time for Land and Water Rides-|(potd)
 - Day 33 - Earlier Finish Time for Land and Water Rides - || (potd)
+- Day 34 - Total Waviness of Numbers in Range |. (potd)
 
 
 More solutions will be added regularly.
