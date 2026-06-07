@@ -32,6 +32,7 @@ GeeksforGeeks
 - Day 34 - Substring with Max Zero-One difference.
 - Day 35 - Lexicographically Smallest after removing k(potd).
 - Day 36 - Non-Attacking Black and White Knights(potd).
+- Day 37 - Finding Profession(potd).
 
 LeetCode
 
@@ -40,5 +41,6 @@ LeetCode
 - Day 33 - Earlier Finish Time for Land and Water Rides - || (potd)
 - Day 34 - Total Waviness of Numbers in Range |. (potd)
 - Day 35 - Reverse Words in a string.
+- Day 36 - Left and right sum differences(potd).
 
 More solutions will be added regularly.
