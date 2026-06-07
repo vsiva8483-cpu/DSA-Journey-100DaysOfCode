@@ -42,5 +42,6 @@ LeetCode
 - Day 34 - Total Waviness of Numbers in Range |. (potd)
 - Day 35 - Reverse Words in a string.
 - Day 36 - Left and right sum differences(potd).
+- Day 37 - Largest Number
 
 More solutions will be added regularly.
