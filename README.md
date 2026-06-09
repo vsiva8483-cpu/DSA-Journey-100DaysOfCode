@@ -34,6 +34,7 @@ GeeksforGeeks
 - Day 36 - Non-Attacking Black and White Knights(potd).
 - Day 37 - Finding Profession(potd).
 - Day 38 - Delete Nodes with greater on right(potd).
+- Day 39 - Seating Arrangement(potd).
 
 LeetCode
 
