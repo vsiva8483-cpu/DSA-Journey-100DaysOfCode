@@ -35,6 +35,7 @@ GeeksforGeeks
 - Day 37 - Finding Profession(potd).
 - Day 38 - Delete Nodes with greater on right(potd).
 - Day 39 - Seating Arrangement(potd).
+- Day 40 - Binary searchable(potd).
 
 LeetCode
 
